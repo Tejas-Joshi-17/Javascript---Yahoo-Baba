@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------------------------------------------------
+
+Basic Events in Javascript :-
+
+    1)  Click ( onClick )
+    2)  Double Click ( ondbclick )
+    3)  Right Click ( oncontextmenu )
+    4)  Mouse Hover ( onmouseenter )
+    5)  Mouse Out ( onmouseout )
+    6)  Mouse Down ( onmousedown )      Mouse दाबल्यावर
+    7)  Mouse Up ( onmouseup )          Mouse सोडल्यावर
+    8)  Key Press ( onkeypress )        Only Work in <form> & <body>
+    9)  Key Up ( onkeyup )              Only Work in <form> & <body>
+    10) Load ( onload )                 Only Work in <body>
+    11) Unload ( onunload )             Only Work in <body>
+    12) Resize ( onresize )             Only Work in <body>
+    13) Scroll ( onscroll )             Only Work in <body>
+
+------------------------------------------------------------------------------------------------------------------------------------

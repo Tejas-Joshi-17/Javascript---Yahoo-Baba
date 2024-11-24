@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------------------------------------------------------------
+
+Datatype in Javascript :- 
+
+    1) string      :-   var x = "Hello World", 'Hello World', "2", '2', "23.34", '23.34', 'true', 'null' 
+    2) number      :-   var x = 25, 23.34
+    3) boolean     :-   var x = true, false
+    4) object      :-   var x = ["html", 100, true] , [23,45.23,undefined], [true,"Apple",true]
+    5) object object   :-  {Name: "Tejas Joshi", Age:21, CGPA:9.16}
+    6) null        :-   var x = null
+    7) undefined   :-   var x 
+
+Note :-
+        1) Array  =  object
+        2) object = [object object]
+
+------------------------------------------------------------------------------------------------------------------------------------

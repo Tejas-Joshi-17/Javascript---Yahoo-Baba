@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------------------------------------------------
+
+Types of Scripting Language :-
+
+    (1) Client-Side Scripting Language :-  Javascript
+    (2) Server-Side Scripting Language :-  PHP, Python, .Net
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Javascript is a Event Based Programming Language :-
+
+    1) Click               7) Key Press
+    2) Double Click        8) Key Up
+    3) Right Click         9) Load
+    4) Mouse Hover        10) Unload
+    5) Mouse Out          11) Resize
+    6) Drag Drop          12) Scroll
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Use of Javascript in Web Development :-
+
+    1) Dropdown Menu        7) Video Player
+    2) Animated Sliders     8) Zoom Effect
+    3) Maps                 9) Animated Gallery
+    4) Chart-Graphs        10) Form Validation
+    5) Pop-up Window       11) Accordions
+    6) Audio Players       12) Calenders
+
+------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------------------------------------------------------------
+
+Google Chrome Console :-
+
+    1) console.log()       :-   For Testing
+    2) document.write()    :-   For Production
+    3) console.clear()     :-   Clear the Console
+    4) console.warn()      :-   Show Warning
+    5) console.error()     :-   Show Error 
+    6) console.time()      :-   Time Count Started
+    7) console.timeEnd()   :-   Time Count Ended
+
+------------------------------------------------------------------------------------------------------------------------------------

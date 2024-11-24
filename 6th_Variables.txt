@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------------------------------------------------
+
+Variables :-
+
+    1) var (Updatable + Re-Initializable) :-
+
+        var a = 10;
+        a = 20;
+        var a = `Tejas Joshi`;
+
+    2) let (Updatable + Non-Initializable) :-
+
+        let a = 10;
+        a = 20;
+        let a = `Tejas Joshi`;        <---- Error
+
+    3) const (Non-updatable + Non-initializable) :-
+
+        const a = 10;
+        a = 20;                       <---- Error
+        const a = `Tejas Joshi`;      <---- Error
+
+------------------------------------------------------------------------------------------------------------------------------------

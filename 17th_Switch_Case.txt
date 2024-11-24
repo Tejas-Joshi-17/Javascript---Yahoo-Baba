@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------------------------
+
+Switch Case Statement :-
+
+        switch ( expression ) {
+            case condition 1: condition 2:
+                statement(s)
+                break;
+            case condition 3: condition 4: condition 5:
+                statement(s)
+                break;
+            case condition 6:
+                statement(s)
+                break;
+            default:
+                statement(s)
+                break;
+        }
+
+------------------------------------------------------------------------------------------------------------------------------------

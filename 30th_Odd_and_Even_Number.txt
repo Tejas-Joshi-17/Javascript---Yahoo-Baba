@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------------------------------------------------
+
+Odd & Even Number :-
+
+1) Odd Number less than equal to 10 :-
+
+    document.write("Odd Number less than 10 :- ")
+    for(var a=1; a<=10; a++){
+        if(a%2 != 0)
+            document.write(a + "  ")
+    }
+
+2) Even Number less than equal to 10 :-
+
+    document.write("Even Number less than 10 :- ")
+    for(var a=1; a<=10; a++){
+        if(a%2 == 0)
+            document.write(a + "  ")
+    }
+
+------------------------------------------------------------------------------------------------------------------------------------
