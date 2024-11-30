@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Target DOM Element :- 
+
+1)   document.getElementByTagName
+2)   document.getElementsByClassName
+3)   document.getElementById
+4)   document
+5)   document.all
+6)   document.documentElement
+7)   document.head
+8)   document.title
+9)   document.body
+10)  document.images
+11)  document.anchors
+12)  document.links
+13)  document.forms
+14)  document.doctype
+15)  document.URL
+16)  document.baseURL
+17)  document.domain
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
